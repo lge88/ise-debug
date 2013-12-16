@@ -1,0 +1,9 @@
+{
+  "name": "expect.js",
+  "repo": "lge88/expect.js",
+  "upstream": "git@github.com:LearnBoost/expect.js.git",
+  "scripts": [
+    "expect.js"
+  ],
+  "main": "expect.js"
+}

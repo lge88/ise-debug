@@ -1,0 +1,14 @@
+{
+  "name": "extend",
+  "repo": "lge88/extend",
+  "upstream": "git://github.com/segmentio/extend.git",
+  "description": "Component: extend, just like in underscore.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
